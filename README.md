@@ -1,13 +1,16 @@
-# LULC-PBS
+## LULC-PBS
 Regional LULC maps of three target areas located in the main ecoregions of Ecuador at a resolution of 10 m using Google Earth Engine (GEE) cloud-based computing. 
 
 How to use?
 
-Users with access to the repository can add it to the Code Editor using:
+1) Users with access to the repository can add it to the Code Editor using:
 
 https://code.earthengine.google.com/?accept_repo=users/SI_Testing/LULC_EC
 
-Find the next section where you can select the map of the region you want to process. 
+
+2) Open 01_LULC-PBS_Mapping
+
+3) Find the next section where you can select the map of the region you want to process. 
 To do this you must uncomment the var scriptClassifier and AOI in the option of your preferred.
 
 //********** Visualising LULC-PBS in the COAST Region of Ecuador******//
